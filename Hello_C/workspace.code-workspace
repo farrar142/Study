@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\first"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin"
+	}
+}

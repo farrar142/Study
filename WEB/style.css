@@ -1,0 +1,61 @@
+input{
+    margin:auto;
+    margin-bottom: 10px;
+}
+a.title{
+    text-decoration: none;
+}
+header.title{
+    display:block;
+}
+h1{
+    text-align: center;
+    border: 1px solid black;
+    width:800px;;
+    height:60px;
+    line-height:60px;
+    margin:auto;
+}
+container{
+    display:flex;
+}
+.wrap{
+    margin:auto;
+    display:flex;
+    margin-top:-1px;
+}
+.index{
+    text-align:left;
+    border: 1px solid black;
+    height:1000px;
+    width:120px;
+    margin-right:-1px;
+    padding-right:-1px;
+}
+
+nav>ol>li{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.main{
+    border: 1px solid black;
+    margin:0px;
+    width:679px;
+    height:1000px;
+}
+h2{
+    margin:20px;
+    height:50px;
+    line-height:50px;
+}
+imgbox{
+    display:block;
+    border: 1px solid gray;
+    margin:auto;
+    height:200px;
+    width:400px;
+}
+article{
+    margin:20px;
+}

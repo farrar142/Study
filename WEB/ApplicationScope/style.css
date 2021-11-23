@@ -1,0 +1,13 @@
+.blackPanel {
+    border : 1px;
+    margin : 140px;
+    width: 800px;
+    height: 200px;
+    background-color :#202020;
+}
+
+td {
+    border : solid gray 1px;
+    width : 20px;
+    height :100px;
+}
